@@ -41,6 +41,7 @@
     "ionicons": "4.5.1",
     "phonegap-plugin-push": "^2.2.3",
     "rxjs": "6.3.3",
+    "rxjs-compat": "^6.3.3",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.26"
   },
