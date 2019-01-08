@@ -1,0 +1,7 @@
+{
+  "name": "ionic-push-base",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
